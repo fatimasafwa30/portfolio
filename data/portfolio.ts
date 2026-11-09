@@ -71,6 +71,7 @@ export const individualProjects: readonly Project[] = [
     ],
     links: {
       repository: "https://github.com/fatimasafwa30/support-intelligence-agent",
+      demo: "https://support-intelligence-agent.onrender.com/",
     },
   },
   {
@@ -102,6 +103,9 @@ export const individualProjects: readonly Project[] = [
       "Gemini API",
       "OpenFDA API",
     ],
+    links: {
+      demo: "https://medi-link-ai-theta.vercel.app",
+    },
   },
   {
     id: "hostelfix",
@@ -118,6 +122,9 @@ export const individualProjects: readonly Project[] = [
       "Mongoose",
       "JWT",
     ],
+    links: {
+      demo: "https://hostelfix-dusky.vercel.app",
+    },
   },
 ];
 
@@ -135,6 +142,7 @@ export const groupProjects: readonly Project[] = [
     technologies: ["React", "Vite", "JavaScript", "Web Crypto API"],
     links: {
       repository: "https://github.com/fatimasafwa30/NITK-reHERsion",
+      demo: "https://veratrace-app.vercel.app",
     },
   },
   {
